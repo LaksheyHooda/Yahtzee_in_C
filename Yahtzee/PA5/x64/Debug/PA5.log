@@ -1,0 +1,7 @@
+﻿  main.c
+  Yahtzee_functions.c
+\\Mac\Home\Desktop\Cpts_121_fall_2022\PA\Yahtzee\PA5\Yahtzee_functions.c(213,28): warning C4047: '==': 'char [20]' differs in levels of indirection from 'int'
+  Generating Code...
+\\Mac\Home\Desktop\Cpts_121_fall_2022\PA\Yahtzee\PA5\Yahtzee_functions.c(244): warning C4716: 'roll_specific_dice': must return a value
+\\Mac\Home\Desktop\Cpts_121_fall_2022\PA\Yahtzee\PA5\Yahtzee_functions.c(234): warning C4715: 'reroll_dice': not all control paths return a value
+  PA5.vcxproj -> \\Mac\Home\Desktop\Cpts_121_fall_2022\PA\Yahtzee\x64\Debug\PA5.exe
